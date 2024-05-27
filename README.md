@@ -156,7 +156,23 @@ No known bugs at this time.
 ## Authors
 Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
+otman elouafi <otmaneelouafi@gmail.com>
+
 
 Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
+
+
+## New Contributions
+
+As part of the AirBnB_clone_v3 project, I have made several enhancements and updates to improve the functionality and usability of the application:
+
+- **Documentation Improvements**: Updated and expanded the documentation to provide clearer instructions and examples for new users and contributors.
+- **API Enhancements**: Added new API endpoints to support additional functionality and improve integration with other services.
+- **Bug Fixes**: Identified and fixed several bugs that were causing issues in the application, leading to improved stability and performance.
+- **Unit Tests**: Added comprehensive unit tests to ensure the reliability of the codebase and facilitate easier maintenance and future development.
+- **Code Refactoring**: Refactored portions of the codebase to improve readability, maintainability, and adherence to best practices.
+- **New Features**: Implemented new features such as user authentication, data validation, and enhanced search capabilities to provide a better user experience.
+- **Performance Optimization**: Made optimizations to the database queries and application logic to enhance the overall performance and scalability of the application.
+
